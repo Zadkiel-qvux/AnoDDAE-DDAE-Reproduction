@@ -1,8 +1,8 @@
-# 🧨 Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection (AnoDDAE)
+# Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection (AnoDDAE)
 
 **Official implementation of the method presented in our KDD 2025 paper:** 
 
-> **Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data** [Link]() (appears soon)
+> **Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data** [Link](https://arxiv.org/abs/2508.00758)
 
 This repository provides reproducible implementation of the anomaly detection method based on a denoising autoencoder architecture with diffusion noise scheduling mechanism inspired by diffusion models.
 
