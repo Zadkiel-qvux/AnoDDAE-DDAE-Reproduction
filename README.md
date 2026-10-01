@@ -89,10 +89,6 @@ python run_all.py
 
 Khi chạy `python run_all.py`, script sẽ chạy lần lượt **60 experiments DDAE**, rồi lưu kết quả sau mỗi lượt. Nó không dùng `run.py` và không sửa các file source/config gốc.
 
-Các dòng này sẽ in ra trên terminal:
-
-!image.png
-
 ---
 
 ### 4.1 Chuẩn bị
@@ -136,10 +132,6 @@ Reset seed
 ```
 
 Các giá trị 100 epochs và evaluation mỗi 10 epochs áp dụng nếu bạn giữ YAML gốc. Pipeline này bám theo `run.py` hiện có.
-
-Những gì xảy ra trên terminal:
-
-!image.png
 
 ---
 
